@@ -2,22 +2,14 @@
 <details>
 <summary>Português</summary>
   <h2>O que é o Arduino</h2>
-  <p>Arduíno é uma placa de prototipagem eletrônica de código aberto. O projeto, surgido na cidade de Ivrea, na Itália, em 2005, inclui hardware e software livre e visa oferecer ferramentas adaptáveis e de baixo custo para a criação de projetos interativos de diversas ordens.</p>
+  <p>Arduíno é uma placa de prototipagem eletrônica de código aberto. O projeto, surgido na cidade de Ivrea, na Itália, em 2005, inclui hardware e software livre e visa oferecer ferramentas adaptáveis e de baixo custo para a criação de projetos interativos de diversas ordens. Fazendo uma comparação tosca, uma placa Arduíno funciona como uma base de Lego sobre a qual o desenvolvedor junta várias peças e monta um protótipo. Uma placa Arduíno é composta, basicamente, por um controlador Atmel AVR de 8 bits, uma interface serial ou USB e alguns pinos digitais e analógicos.</p>
   
-  <p>Fazendo uma comparação tosca, uma placa Arduíno funciona como uma base de Lego sobre a qual o desenvolvedor junta várias peças e monta um protótipo. Uma placa Arduíno é composta, basicamente, por um controlador Atmel AVR de 8 bits, uma interface serial ou USB e alguns pinos digitais e analógicos.</p>
-
   <p>Assim, a partir desses componentes, ela pode servir tanto para o desenvolvimento de projetos interativos como ser conectada a um outro computador. Em suma, o Arduíno é uma plataforma sobre a qual serão construídos outros equipamentos — e ele não deve ser confundido com o Raspberry Pi, equipamento visualmente semelhante a ele, mas que funciona como um computador de placa única.</p>
-
-  ##
 
   <p>O conjunto da obra é composto não somente pela parte de hardware, mas também pelo software. Ambos em código aberto, eles podem ser modificados conforme a necessidade do usuário — e basta programar usando o software do Arduíno para contar ao equipamento o que ele deve fazer.</p>
 
-  <p>A parte de software é desenvolvida por meio de linguagem C/C++ — e tudo isso acontece em um ambiente gráfico escrito em Java. Ele ainda traz um firmware embutido e que é carregado na memória ROM da placa.</p>
-
-  <p>A base do Arduíno é justamente a ideia do “faça você mesmo”, também conhecido pela sigla em inglês DIY (de do it yourself). Como existem placas de diferentes tamanhos, elas podem ser adaptadas aos mais variados projetos, como é o caso do uso do Arduíno Gemma, usado para a criação de um dispositivo de computação vestível.</p>
+  <p>A parte de software é desenvolvida por meio de linguagem C/C++ — e tudo isso acontece em um ambiente gráfico escrito em Java. Ele ainda traz um firmware embutido e que é carregado na memória ROM da placa. A base do Arduíno é justamente a ideia do “faça você mesmo”, também conhecido pela sigla em inglês DIY (de do it yourself). Como existem placas de diferentes tamanhos, elas podem ser adaptadas aos mais variados projetos, como é o caso do uso do Arduíno Gemma, usado para a criação de um dispositivo de computação vestível.</p>
 </details>
-
-##
 
 <details>
 <summary>English</summary>
